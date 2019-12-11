@@ -1,1 +1,1 @@
-web: chestermath
+web: bin/goscore
